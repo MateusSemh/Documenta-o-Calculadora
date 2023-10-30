@@ -37,9 +37,9 @@ public class CalculadoraJunitTest {
 
 Para executar os testes, siga as etapas a seguir:
 
-1 - Certifique-se de que você tenha o Java e o JUnit instalados em seu ambiente.
-2 - Abra o arquivo CalculadoraJunitTest.java em sua IDE ou editor Java.
-3 - Execute os testes utilizando as ferramentas de teste de sua IDE ou execute-os via linha de comando.
+- Certifique-se de que você tenha o Java e o JUnit instalados em seu ambiente.
+- Abra o arquivo CalculadoraJunitTest.java em sua IDE ou editor Java.
+- Execute os testes utilizando as ferramentas de teste de sua IDE ou execute-os via linha de comando.
 
 Isso conclui a descrição do projeto da calculadora em Java, juntamente com informações sobre os principais arquivos e como executar os testes.
 

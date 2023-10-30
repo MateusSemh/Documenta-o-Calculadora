@@ -10,28 +10,13 @@ A classe `Calculadora` contém quatro métodos para realizar operações matemá
 - `dividir`: Divide dois números inteiros, tratando divisões por zero.
 - `multiplicar`: Multiplica dois números inteiros.
 
-**Exemplo de Uso:**
-
 # CalculadoraTeste.java
 
 O arquivo CalculadoraTeste.java contém um programa de teste simples que demonstra o uso da classe Calculadora para realizar operações matemáticas básicas, incluindo testes para adição, subtração, multiplicação e divisão.
 
-public class CalculadoraTeste {
-    public static void main(String[] args) {
-        Calculadora calc = new Calculadora();
-        int resultadoSoma = calc.somar(2, 3);
-        System.out.println("Resultado da soma: " + resultadoSoma);
-    }
-}
-
 # CalculadoraJunitTest.java
 
 O arquivo CalculadoraJunitTest.java contém testes de unidade usando o framework JUnit. Ele testa a classe Calculadora em relação a operações matemáticas e verifica se os resultados estão corretos ou não.
-
-@RunWith(JUnitPlatform.class)
-public class CalculadoraJunitTest {
-    // Métodos de teste usando anotações do JUnit
-}
 
 # Como Executar os Testes
 
